@@ -7,7 +7,7 @@ from newJSONFile import NJ
 def main():
     i = 0
     while True:
-        time.sleep(10)
+        time.sleep(60)
         i += 1
         print(i)
         coinSum()
