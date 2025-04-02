@@ -66,7 +66,7 @@ def spred():
                     for v2 in u:
                         if v1.split(' ')[0] == v2.split(' ')[0]:
 
-                            spredTo = 100.1 # 101.4
+                            spredTo = 101.4
                             comis = 0.1
                             capital = 100
 
